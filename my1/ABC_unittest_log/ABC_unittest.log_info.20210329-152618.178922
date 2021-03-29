@@ -1,0 +1,17 @@
+Log file created at: 2021/03/29 15:26:18
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0329 15:26:18.053788 178922 error_code.cpp:21] ### GIT HASH: _GITHASH ###
+I0329 15:26:18.053963 178922 error_code.cpp:22] ### GIT BRANCH: _GITBRANCH ###
+I0329 15:26:18.053970 178922 error_code.cpp:23] ### Build at: Mar 20 2021 20:33:28 ###
+I0329 15:26:18.053974 178922 error_code.cpp:24] ### Build Environment: _BUILD_ENV_DESCRIPTION ###
+I0329 15:26:18.301205 178922 ABC_unittest.cpp:245] start result output:qws2_50_30_150_2000.json alg:EABC loop:10 loopIdx:1 infer_fx:24.2458 actual_min_fx:24.2458 FoodNumber:50 D:30 K:4 SD:50 limit:150 MCN:2000 lb:0 up:29 step:29
+I0329 15:26:18.543524 178922 ABC_unittest.cpp:245] start result output:qws2_50_30_150_2000.json alg:EABC loop:10 loopIdx:2 infer_fx:24.2458 actual_min_fx:24.2458 FoodNumber:50 D:30 K:4 SD:50 limit:150 MCN:2000 lb:0 up:29 step:29
+I0329 15:26:18.745115 178922 ABC_unittest.cpp:245] start result output:qws2_50_30_150_2000.json alg:EABC loop:10 loopIdx:3 infer_fx:24.2458 actual_min_fx:24.2458 FoodNumber:50 D:30 K:4 SD:50 limit:150 MCN:2000 lb:0 up:29 step:29
+I0329 15:26:18.945348 178922 ABC_unittest.cpp:245] start result output:qws2_50_30_150_2000.json alg:EABC loop:10 loopIdx:4 infer_fx:24.2458 actual_min_fx:24.2458 FoodNumber:50 D:30 K:4 SD:50 limit:150 MCN:2000 lb:0 up:29 step:29
+I0329 15:26:19.144848 178922 ABC_unittest.cpp:245] start result output:qws2_50_30_150_2000.json alg:EABC loop:10 loopIdx:5 infer_fx:24.2458 actual_min_fx:24.2458 FoodNumber:50 D:30 K:4 SD:50 limit:150 MCN:2000 lb:0 up:29 step:29
+I0329 15:26:19.341379 178922 ABC_unittest.cpp:245] start result output:qws2_50_30_150_2000.json alg:EABC loop:10 loopIdx:6 infer_fx:24.1964 actual_min_fx:24.1964 FoodNumber:50 D:30 K:4 SD:50 limit:150 MCN:2000 lb:0 up:29 step:29
+I0329 15:26:19.543221 178922 ABC_unittest.cpp:245] start result output:qws2_50_30_150_2000.json alg:EABC loop:10 loopIdx:7 infer_fx:24.1964 actual_min_fx:24.1964 FoodNumber:50 D:30 K:4 SD:50 limit:150 MCN:2000 lb:0 up:29 step:29
+I0329 15:26:19.743500 178922 ABC_unittest.cpp:245] start result output:qws2_50_30_150_2000.json alg:EABC loop:10 loopIdx:8 infer_fx:24.1964 actual_min_fx:24.1964 FoodNumber:50 D:30 K:4 SD:50 limit:150 MCN:2000 lb:0 up:29 step:29
+I0329 15:26:19.943969 178922 ABC_unittest.cpp:245] start result output:qws2_50_30_150_2000.json alg:EABC loop:10 loopIdx:9 infer_fx:24.1964 actual_min_fx:24.1964 FoodNumber:50 D:30 K:4 SD:50 limit:150 MCN:2000 lb:0 up:29 step:29
+I0329 15:26:20.145521 178922 ABC_unittest.cpp:235] start result output:qws2_50_30_150_2000.json alg:EABC loop:10 loopIdx:10 infer_fx:24.1964 actual_min_fx:24.1964 mean:24.2211 stdev:0.0246691 better:24.1964 worst:24.2458 FoodNumber:50 D:30 K:4 SD:50 limit:150 MCN:2000 lb:0 up:29 step:29

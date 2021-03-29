@@ -1,0 +1,27 @@
+Log file created at: 2021/03/28 22:18:22
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0328 22:18:22.070268 165926 error_code.cpp:21] ### GIT HASH: _GITHASH ###
+I0328 22:18:22.070442 165926 error_code.cpp:22] ### GIT BRANCH: _GITBRANCH ###
+I0328 22:18:22.070447 165926 error_code.cpp:23] ### Build at: Mar 20 2021 20:33:28 ###
+I0328 22:18:22.070451 165926 error_code.cpp:24] ### Build Environment: _BUILD_ENV_DESCRIPTION ###
+E0328 22:18:22.070499 165926 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:5000 miter:10 I:10 SD:200 step:5.12 lb:-5.12 up:5.12 algorithm_type:6
+I0328 22:18:25.295847 165926 SFLA_func_unittest.cpp:192] start result output:f5_100_200_200_5000.json alg:SFLA loop:10 loopIdx:1 infer_fx:47.459 actual_min_fx:47.459 SD:200 miter:10 MCN:5000 lb:-5.12 up:5.12 step:5.12 M:10 I:10 P:100
+E0328 22:18:25.322655 165926 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:5000 miter:10 I:10 SD:200 step:5.12 lb:-5.12 up:5.12 algorithm_type:6
+I0328 22:18:28.716555 165926 SFLA_func_unittest.cpp:192] start result output:f5_100_200_200_5000.json alg:SFLA loop:10 loopIdx:2 infer_fx:65.9531 actual_min_fx:65.9531 SD:200 miter:10 MCN:5000 lb:-5.12 up:5.12 step:5.12 M:10 I:10 P:100
+E0328 22:18:28.741261 165926 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:5000 miter:10 I:10 SD:200 step:5.12 lb:-5.12 up:5.12 algorithm_type:6
+I0328 22:18:32.295228 165926 SFLA_func_unittest.cpp:192] start result output:f5_100_200_200_5000.json alg:SFLA loop:10 loopIdx:3 infer_fx:78.5464 actual_min_fx:78.5464 SD:200 miter:10 MCN:5000 lb:-5.12 up:5.12 step:5.12 M:10 I:10 P:100
+E0328 22:18:32.320983 165926 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:5000 miter:10 I:10 SD:200 step:5.12 lb:-5.12 up:5.12 algorithm_type:6
+I0328 22:18:36.059895 165926 SFLA_func_unittest.cpp:192] start result output:f5_100_200_200_5000.json alg:SFLA loop:10 loopIdx:4 infer_fx:97.4368 actual_min_fx:97.4368 SD:200 miter:10 MCN:5000 lb:-5.12 up:5.12 step:5.12 M:10 I:10 P:100
+E0328 22:18:36.088158 165926 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:5000 miter:10 I:10 SD:200 step:5.12 lb:-5.12 up:5.12 algorithm_type:6
+I0328 22:18:39.858283 165926 SFLA_func_unittest.cpp:192] start result output:f5_100_200_200_5000.json alg:SFLA loop:10 loopIdx:5 infer_fx:100.981 actual_min_fx:100.981 SD:200 miter:10 MCN:5000 lb:-5.12 up:5.12 step:5.12 M:10 I:10 P:100
+E0328 22:18:39.883152 165926 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:5000 miter:10 I:10 SD:200 step:5.12 lb:-5.12 up:5.12 algorithm_type:6
+I0328 22:18:43.372880 165926 SFLA_func_unittest.cpp:192] start result output:f5_100_200_200_5000.json alg:SFLA loop:10 loopIdx:6 infer_fx:76.4799 actual_min_fx:76.4799 SD:200 miter:10 MCN:5000 lb:-5.12 up:5.12 step:5.12 M:10 I:10 P:100
+E0328 22:18:43.397603 165926 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:5000 miter:10 I:10 SD:200 step:5.12 lb:-5.12 up:5.12 algorithm_type:6
+I0328 22:18:46.741725 165926 SFLA_func_unittest.cpp:192] start result output:f5_100_200_200_5000.json alg:SFLA loop:10 loopIdx:7 infer_fx:61.9549 actual_min_fx:61.9549 SD:200 miter:10 MCN:5000 lb:-5.12 up:5.12 step:5.12 M:10 I:10 P:100
+E0328 22:18:46.767073 165926 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:5000 miter:10 I:10 SD:200 step:5.12 lb:-5.12 up:5.12 algorithm_type:6
+I0328 22:18:50.651371 165926 SFLA_func_unittest.cpp:192] start result output:f5_100_200_200_5000.json alg:SFLA loop:10 loopIdx:8 infer_fx:132.554 actual_min_fx:132.554 SD:200 miter:10 MCN:5000 lb:-5.12 up:5.12 step:5.12 M:10 I:10 P:100
+E0328 22:18:50.676467 165926 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:5000 miter:10 I:10 SD:200 step:5.12 lb:-5.12 up:5.12 algorithm_type:6
+I0328 22:18:54.420357 165926 SFLA_func_unittest.cpp:192] start result output:f5_100_200_200_5000.json alg:SFLA loop:10 loopIdx:9 infer_fx:101.823 actual_min_fx:101.823 SD:200 miter:10 MCN:5000 lb:-5.12 up:5.12 step:5.12 M:10 I:10 P:100
+E0328 22:18:54.445386 165926 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:5000 miter:10 I:10 SD:200 step:5.12 lb:-5.12 up:5.12 algorithm_type:6
+I0328 22:18:57.810186 165926 SFLA_func_unittest.cpp:183] start result output:f5_100_200_200_5000.json alg:SFLA loop:10 loopIdx:10 infer_fx:62.0853 actual_min_fx:62.0853 mean:82.5274 stdev:24.1575 better:47.459 worst:132.554 SD:200 miter:10 MCN:5000 lb:-5.12 up:5.12 step:5.12 M:10 I:10 P:100

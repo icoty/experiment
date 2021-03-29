@@ -1,0 +1,37 @@
+Log file created at: 2021/03/28 21:22:26
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0328 21:22:26.626204 71417 error_code.cpp:21] ### GIT HASH: _GITHASH ###
+I0328 21:22:26.626358 71417 error_code.cpp:22] ### GIT BRANCH: _GITBRANCH ###
+I0328 21:22:26.626363 71417 error_code.cpp:23] ### Build at: Mar 20 2021 20:33:28 ###
+I0328 21:22:26.626364 71417 error_code.cpp:24] ### Build Environment: _BUILD_ENV_DESCRIPTION ###
+I0328 21:22:26.864594 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:1 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:27.105319 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:2 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:27.355233 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:3 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:27.601352 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:4 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:27.842303 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:5 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:28.081712 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:6 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:28.323254 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:7 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:28.577320 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:8 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:28.823346 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:9 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:29.061794 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:10 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:29.302117 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:11 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:29.552810 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:12 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:29.805590 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:13 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:30.060920 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:14 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:30.315675 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:15 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:30.571539 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:16 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:30.827080 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:17 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:31.082764 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:18 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:31.335225 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:19 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:31.585920 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:20 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:31.835294 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:21 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:32.080762 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:22 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:32.325713 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:23 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:32.578780 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:24 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:32.827077 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:25 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:33.068959 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:26 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:33.310325 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:27 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:33.554042 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:28 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:33.802225 71417 ABC_func_unittest.cpp:200] start result infer_fx:0 actual_min_fx:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:29 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12
+I0328 21:22:34.053211 71417 ABC_func_unittest.cpp:192] start result infer_fx:0 actual_min_fx:0 mean:0 stdev:0 better:0 worst:0 funcName:f5 alg:EABC output:f5_100_50_50_800.json loop:30 loopIdx:30 FoodNumber:100 SD:50 limit:50 MCN:800 lb:-5.12 up:5.12

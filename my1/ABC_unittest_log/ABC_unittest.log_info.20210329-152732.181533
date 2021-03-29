@@ -1,0 +1,17 @@
+Log file created at: 2021/03/29 15:27:32
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0329 15:27:32.376622 181533 error_code.cpp:21] ### GIT HASH: _GITHASH ###
+I0329 15:27:32.376796 181533 error_code.cpp:22] ### GIT BRANCH: _GITBRANCH ###
+I0329 15:27:32.376801 181533 error_code.cpp:23] ### Build at: Mar 20 2021 20:33:28 ###
+I0329 15:27:32.376806 181533 error_code.cpp:24] ### Build Environment: _BUILD_ENV_DESCRIPTION ###
+I0329 15:27:33.469332 181533 ABC_unittest.cpp:245] start result output:qws2_80_20_100_2000.json alg:HSABC loop:10 loopIdx:1 infer_fx:38.4097 actual_min_fx:38.4097 FoodNumber:80 D:20 K:4 SD:80 limit:100 MCN:2000 lb:0 up:19 step:19
+I0329 15:27:34.686075 181533 ABC_unittest.cpp:245] start result output:qws2_80_20_100_2000.json alg:HSABC loop:10 loopIdx:2 infer_fx:38.3422 actual_min_fx:38.3422 FoodNumber:80 D:20 K:4 SD:80 limit:100 MCN:2000 lb:0 up:19 step:19
+I0329 15:27:35.790179 181533 ABC_unittest.cpp:245] start result output:qws2_80_20_100_2000.json alg:HSABC loop:10 loopIdx:3 infer_fx:38.2674 actual_min_fx:38.2674 FoodNumber:80 D:20 K:4 SD:80 limit:100 MCN:2000 lb:0 up:19 step:19
+I0329 15:27:36.941396 181533 ABC_unittest.cpp:245] start result output:qws2_80_20_100_2000.json alg:HSABC loop:10 loopIdx:4 infer_fx:38.3327 actual_min_fx:38.3327 FoodNumber:80 D:20 K:4 SD:80 limit:100 MCN:2000 lb:0 up:19 step:19
+I0329 15:27:38.097283 181533 ABC_unittest.cpp:245] start result output:qws2_80_20_100_2000.json alg:HSABC loop:10 loopIdx:5 infer_fx:38.1574 actual_min_fx:38.1574 FoodNumber:80 D:20 K:4 SD:80 limit:100 MCN:2000 lb:0 up:19 step:19
+I0329 15:27:39.211189 181533 ABC_unittest.cpp:245] start result output:qws2_80_20_100_2000.json alg:HSABC loop:10 loopIdx:6 infer_fx:38.4433 actual_min_fx:38.4433 FoodNumber:80 D:20 K:4 SD:80 limit:100 MCN:2000 lb:0 up:19 step:19
+I0329 15:27:40.362428 181533 ABC_unittest.cpp:245] start result output:qws2_80_20_100_2000.json alg:HSABC loop:10 loopIdx:7 infer_fx:38.3337 actual_min_fx:38.3337 FoodNumber:80 D:20 K:4 SD:80 limit:100 MCN:2000 lb:0 up:19 step:19
+I0329 15:27:41.536267 181533 ABC_unittest.cpp:245] start result output:qws2_80_20_100_2000.json alg:HSABC loop:10 loopIdx:8 infer_fx:38.4108 actual_min_fx:38.4108 FoodNumber:80 D:20 K:4 SD:80 limit:100 MCN:2000 lb:0 up:19 step:19
+I0329 15:27:42.698150 181533 ABC_unittest.cpp:245] start result output:qws2_80_20_100_2000.json alg:HSABC loop:10 loopIdx:9 infer_fx:38.2931 actual_min_fx:38.2931 FoodNumber:80 D:20 K:4 SD:80 limit:100 MCN:2000 lb:0 up:19 step:19
+I0329 15:27:43.802531 181533 ABC_unittest.cpp:235] start result output:qws2_80_20_100_2000.json alg:HSABC loop:10 loopIdx:10 infer_fx:38.1421 actual_min_fx:38.1421 mean:38.3133 stdev:0.0966749 better:38.1421 worst:38.4433 FoodNumber:80 D:20 K:4 SD:80 limit:100 MCN:2000 lb:0 up:19 step:19

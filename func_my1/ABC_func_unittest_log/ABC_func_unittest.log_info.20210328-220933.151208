@@ -1,0 +1,17 @@
+Log file created at: 2021/03/28 22:09:33
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0328 22:09:33.722316 151208 error_code.cpp:21] ### GIT HASH: _GITHASH ###
+I0328 22:09:33.722481 151208 error_code.cpp:22] ### GIT BRANCH: _GITBRANCH ###
+I0328 22:09:33.722486 151208 error_code.cpp:23] ### Build at: Mar 20 2021 20:33:28 ###
+I0328 22:09:33.722489 151208 error_code.cpp:24] ### Build Environment: _BUILD_ENV_DESCRIPTION ###
+I0328 22:09:35.765830 151208 ABC_func_unittest.cpp:200] start result infer_fx:0.1315 actual_min_fx:0.1315 funcName:f6 alg:ABC output:f6_100_200_200_1000.json loop:10 loopIdx:1 FoodNumber:100 SD:200 limit:200 MCN:1000 lb:-600 up:600
+I0328 22:09:37.829071 151208 ABC_func_unittest.cpp:200] start result infer_fx:36.5274 actual_min_fx:36.5274 funcName:f6 alg:ABC output:f6_100_200_200_1000.json loop:10 loopIdx:2 FoodNumber:100 SD:200 limit:200 MCN:1000 lb:-600 up:600
+I0328 22:09:39.921149 151208 ABC_func_unittest.cpp:200] start result infer_fx:39.7182 actual_min_fx:39.7182 funcName:f6 alg:ABC output:f6_100_200_200_1000.json loop:10 loopIdx:3 FoodNumber:100 SD:200 limit:200 MCN:1000 lb:-600 up:600
+I0328 22:09:42.012058 151208 ABC_func_unittest.cpp:200] start result infer_fx:31.1233 actual_min_fx:31.1233 funcName:f6 alg:ABC output:f6_100_200_200_1000.json loop:10 loopIdx:4 FoodNumber:100 SD:200 limit:200 MCN:1000 lb:-600 up:600
+I0328 22:09:44.099167 151208 ABC_func_unittest.cpp:200] start result infer_fx:9.61806 actual_min_fx:9.61806 funcName:f6 alg:ABC output:f6_100_200_200_1000.json loop:10 loopIdx:5 FoodNumber:100 SD:200 limit:200 MCN:1000 lb:-600 up:600
+I0328 22:09:46.172808 151208 ABC_func_unittest.cpp:200] start result infer_fx:25.4862 actual_min_fx:25.4862 funcName:f6 alg:ABC output:f6_100_200_200_1000.json loop:10 loopIdx:6 FoodNumber:100 SD:200 limit:200 MCN:1000 lb:-600 up:600
+I0328 22:09:48.243108 151208 ABC_func_unittest.cpp:200] start result infer_fx:6.99866 actual_min_fx:6.99866 funcName:f6 alg:ABC output:f6_100_200_200_1000.json loop:10 loopIdx:7 FoodNumber:100 SD:200 limit:200 MCN:1000 lb:-600 up:600
+I0328 22:09:50.302496 151208 ABC_func_unittest.cpp:200] start result infer_fx:1.02012 actual_min_fx:1.02012 funcName:f6 alg:ABC output:f6_100_200_200_1000.json loop:10 loopIdx:8 FoodNumber:100 SD:200 limit:200 MCN:1000 lb:-600 up:600
+I0328 22:09:52.381752 151208 ABC_func_unittest.cpp:200] start result infer_fx:56.2048 actual_min_fx:56.2048 funcName:f6 alg:ABC output:f6_100_200_200_1000.json loop:10 loopIdx:9 FoodNumber:100 SD:200 limit:200 MCN:1000 lb:-600 up:600
+I0328 22:09:54.512708 151208 ABC_func_unittest.cpp:192] start result infer_fx:24.7883 actual_min_fx:24.7883 mean:23.1617 stdev:17.5538 better:0.1315 worst:56.2048 funcName:f6 alg:ABC output:f6_100_200_200_1000.json loop:10 loopIdx:10 FoodNumber:100 SD:200 limit:200 MCN:1000 lb:-600 up:600

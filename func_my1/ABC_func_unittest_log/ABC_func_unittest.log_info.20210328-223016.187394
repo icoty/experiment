@@ -1,0 +1,17 @@
+Log file created at: 2021/03/28 22:30:16
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0328 22:30:16.913925 187394 error_code.cpp:21] ### GIT HASH: _GITHASH ###
+I0328 22:30:16.914083 187394 error_code.cpp:22] ### GIT BRANCH: _GITBRANCH ###
+I0328 22:30:16.914088 187394 error_code.cpp:23] ### Build at: Mar 20 2021 20:33:28 ###
+I0328 22:30:16.914090 187394 error_code.cpp:24] ### Build Environment: _BUILD_ENV_DESCRIPTION ###
+I0328 22:30:19.808324 187394 ABC_func_unittest.cpp:200] start result infer_fx:0.00190338 actual_min_fx:0.00190338 funcName:f8 alg:HSABC output:f8_100_200_200_2500.json loop:10 loopIdx:1 FoodNumber:100 SD:200 limit:200 MCN:2500 lb:-10 up:10
+I0328 22:30:22.776777 187394 ABC_func_unittest.cpp:200] start result infer_fx:0.000841975 actual_min_fx:0.000841975 funcName:f8 alg:HSABC output:f8_100_200_200_2500.json loop:10 loopIdx:2 FoodNumber:100 SD:200 limit:200 MCN:2500 lb:-10 up:10
+I0328 22:30:25.715608 187394 ABC_func_unittest.cpp:200] start result infer_fx:0.000401048 actual_min_fx:0.000401048 funcName:f8 alg:HSABC output:f8_100_200_200_2500.json loop:10 loopIdx:3 FoodNumber:100 SD:200 limit:200 MCN:2500 lb:-10 up:10
+I0328 22:30:28.696641 187394 ABC_func_unittest.cpp:200] start result infer_fx:0.000365049 actual_min_fx:0.000365049 funcName:f8 alg:HSABC output:f8_100_200_200_2500.json loop:10 loopIdx:4 FoodNumber:100 SD:200 limit:200 MCN:2500 lb:-10 up:10
+I0328 22:30:31.578266 187394 ABC_func_unittest.cpp:200] start result infer_fx:0.000609749 actual_min_fx:0.000609749 funcName:f8 alg:HSABC output:f8_100_200_200_2500.json loop:10 loopIdx:5 FoodNumber:100 SD:200 limit:200 MCN:2500 lb:-10 up:10
+I0328 22:30:34.432942 187394 ABC_func_unittest.cpp:200] start result infer_fx:0.000988576 actual_min_fx:0.000988576 funcName:f8 alg:HSABC output:f8_100_200_200_2500.json loop:10 loopIdx:6 FoodNumber:100 SD:200 limit:200 MCN:2500 lb:-10 up:10
+I0328 22:30:37.322293 187394 ABC_func_unittest.cpp:200] start result infer_fx:0.00068449 actual_min_fx:0.00068449 funcName:f8 alg:HSABC output:f8_100_200_200_2500.json loop:10 loopIdx:7 FoodNumber:100 SD:200 limit:200 MCN:2500 lb:-10 up:10
+I0328 22:30:40.247553 187394 ABC_func_unittest.cpp:200] start result infer_fx:0.000378741 actual_min_fx:0.000378741 funcName:f8 alg:HSABC output:f8_100_200_200_2500.json loop:10 loopIdx:8 FoodNumber:100 SD:200 limit:200 MCN:2500 lb:-10 up:10
+I0328 22:30:43.108882 187394 ABC_func_unittest.cpp:200] start result infer_fx:0.000155304 actual_min_fx:0.000155304 funcName:f8 alg:HSABC output:f8_100_200_200_2500.json loop:10 loopIdx:9 FoodNumber:100 SD:200 limit:200 MCN:2500 lb:-10 up:10
+I0328 22:30:45.987282 187394 ABC_func_unittest.cpp:192] start result infer_fx:0.000558373 actual_min_fx:0.000558373 mean:0.000688669 stdev:0.000466925 better:0.000155304 worst:0.00190338 funcName:f8 alg:HSABC output:f8_100_200_200_2500.json loop:10 loopIdx:10 FoodNumber:100 SD:200 limit:200 MCN:2500 lb:-10 up:10

@@ -1,0 +1,13 @@
+Log file created at: 2021/03/28 22:09:13
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0328 22:09:13.744426 150708 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:1000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+E0328 22:09:14.055758 150708 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:1000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+E0328 22:09:14.355397 150708 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:1000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+E0328 22:09:14.651441 150708 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:1000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+E0328 22:09:14.951422 150708 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:1000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+E0328 22:09:15.253866 150708 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:1000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+E0328 22:09:15.552727 150708 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:1000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+E0328 22:09:15.853554 150708 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:1000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+E0328 22:09:16.150290 150708 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:1000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+E0328 22:09:16.454556 150708 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:1000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6

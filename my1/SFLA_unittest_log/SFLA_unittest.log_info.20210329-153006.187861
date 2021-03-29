@@ -1,0 +1,27 @@
+Log file created at: 2021/03/29 15:30:06
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0329 15:30:06.545539 187861 error_code.cpp:21] ### GIT HASH: _GITHASH ###
+I0329 15:30:06.545723 187861 error_code.cpp:22] ### GIT BRANCH: _GITBRANCH ###
+I0329 15:30:06.545732 187861 error_code.cpp:23] ### Build at: Mar 20 2021 20:33:28 ###
+I0329 15:30:06.545737 187861 error_code.cpp:24] ### Build Environment: _BUILD_ENV_DESCRIPTION ###
+E0329 15:30:06.545802 187861 SFLA_unittest.cpp:119] initializeData FLAGS_P:50 M:5 MCN:2000 miter:250 I:10 D:50 K:4 SD:50 step:49 lb:0 up:49 algorithm_type:6
+I0329 15:30:20.363165 187861 SFLA_unittest.cpp:229] start result output:qws2_50_50_250_2000.json alg:SFLA loop:10 loopIdx:1 infer_fx:19.7264 actual_min_fx:16.3641 D:50 K:4 SD:50 miter:250 MCN:2000 lb:0 up:49 step:49 M:5 I:10 P:50
+E0329 15:30:20.603257 187861 SFLA_unittest.cpp:119] initializeData FLAGS_P:50 M:5 MCN:2000 miter:250 I:10 D:50 K:4 SD:50 step:49 lb:0 up:49 algorithm_type:6
+I0329 15:30:35.716370 187861 SFLA_unittest.cpp:229] start result output:qws2_50_50_250_2000.json alg:SFLA loop:10 loopIdx:2 infer_fx:19.6627 actual_min_fx:16.5566 D:50 K:4 SD:50 miter:250 MCN:2000 lb:0 up:49 step:49 M:5 I:10 P:50
+E0329 15:30:35.994307 187861 SFLA_unittest.cpp:119] initializeData FLAGS_P:50 M:5 MCN:2000 miter:250 I:10 D:50 K:4 SD:50 step:49 lb:0 up:49 algorithm_type:6
+I0329 15:30:50.550153 187861 SFLA_unittest.cpp:229] start result output:qws2_50_50_250_2000.json alg:SFLA loop:10 loopIdx:3 infer_fx:19.7459 actual_min_fx:16.4956 D:50 K:4 SD:50 miter:250 MCN:2000 lb:0 up:49 step:49 M:5 I:10 P:50
+E0329 15:30:50.815143 187861 SFLA_unittest.cpp:119] initializeData FLAGS_P:50 M:5 MCN:2000 miter:250 I:10 D:50 K:4 SD:50 step:49 lb:0 up:49 algorithm_type:6
+I0329 15:31:05.525532 187861 SFLA_unittest.cpp:229] start result output:qws2_50_50_250_2000.json alg:SFLA loop:10 loopIdx:4 infer_fx:19.8292 actual_min_fx:16.1833 D:50 K:4 SD:50 miter:250 MCN:2000 lb:0 up:49 step:49 M:5 I:10 P:50
+E0329 15:31:05.805200 187861 SFLA_unittest.cpp:119] initializeData FLAGS_P:50 M:5 MCN:2000 miter:250 I:10 D:50 K:4 SD:50 step:49 lb:0 up:49 algorithm_type:6
+I0329 15:31:20.067062 187861 SFLA_unittest.cpp:229] start result output:qws2_50_50_250_2000.json alg:SFLA loop:10 loopIdx:5 infer_fx:19.8507 actual_min_fx:16.3307 D:50 K:4 SD:50 miter:250 MCN:2000 lb:0 up:49 step:49 M:5 I:10 P:50
+E0329 15:31:20.319988 187861 SFLA_unittest.cpp:119] initializeData FLAGS_P:50 M:5 MCN:2000 miter:250 I:10 D:50 K:4 SD:50 step:49 lb:0 up:49 algorithm_type:6
+I0329 15:31:35.183331 187861 SFLA_unittest.cpp:229] start result output:qws2_50_50_250_2000.json alg:SFLA loop:10 loopIdx:6 infer_fx:19.5648 actual_min_fx:16.5627 D:50 K:4 SD:50 miter:250 MCN:2000 lb:0 up:49 step:49 M:5 I:10 P:50
+E0329 15:31:35.454777 187861 SFLA_unittest.cpp:119] initializeData FLAGS_P:50 M:5 MCN:2000 miter:250 I:10 D:50 K:4 SD:50 step:49 lb:0 up:49 algorithm_type:6
+I0329 15:31:50.300407 187861 SFLA_unittest.cpp:229] start result output:qws2_50_50_250_2000.json alg:SFLA loop:10 loopIdx:7 infer_fx:19.6382 actual_min_fx:15.3465 D:50 K:4 SD:50 miter:250 MCN:2000 lb:0 up:49 step:49 M:5 I:10 P:50
+E0329 15:31:50.578917 187861 SFLA_unittest.cpp:119] initializeData FLAGS_P:50 M:5 MCN:2000 miter:250 I:10 D:50 K:4 SD:50 step:49 lb:0 up:49 algorithm_type:6
+I0329 15:32:05.118943 187861 SFLA_unittest.cpp:229] start result output:qws2_50_50_250_2000.json alg:SFLA loop:10 loopIdx:8 infer_fx:19.4963 actual_min_fx:15.7016 D:50 K:4 SD:50 miter:250 MCN:2000 lb:0 up:49 step:49 M:5 I:10 P:50
+E0329 15:32:05.366137 187861 SFLA_unittest.cpp:119] initializeData FLAGS_P:50 M:5 MCN:2000 miter:250 I:10 D:50 K:4 SD:50 step:49 lb:0 up:49 algorithm_type:6
+I0329 15:32:20.543507 187861 SFLA_unittest.cpp:229] start result output:qws2_50_50_250_2000.json alg:SFLA loop:10 loopIdx:9 infer_fx:19.4214 actual_min_fx:16.7332 D:50 K:4 SD:50 miter:250 MCN:2000 lb:0 up:49 step:49 M:5 I:10 P:50
+E0329 15:32:20.834893 187861 SFLA_unittest.cpp:119] initializeData FLAGS_P:50 M:5 MCN:2000 miter:250 I:10 D:50 K:4 SD:50 step:49 lb:0 up:49 algorithm_type:6
+I0329 15:32:35.214618 187861 SFLA_unittest.cpp:220] start result output:qws2_50_50_250_2000.json alg:SFLA loop:10 loopIdx:10 infer_fx:19.5448 actual_min_fx:16.1725 mean:19.648 stdev:0.134872 better:19.4214 worst:19.8507 D:50 K:4 SD:50 miter:250 MCN:2000 lb:0 up:49 step:49 M:5 I:10 P:50
