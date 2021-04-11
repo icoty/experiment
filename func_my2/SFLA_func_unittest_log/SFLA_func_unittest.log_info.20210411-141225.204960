@@ -1,0 +1,73 @@
+Log file created at: 2021/04/11 14:12:25
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0411 14:12:25.371796 204960 error_code.cpp:21] ### GIT HASH: _GITHASH ###
+I0411 14:12:25.371973 204960 error_code.cpp:22] ### GIT BRANCH: _GITBRANCH ###
+I0411 14:12:25.371994 204960 error_code.cpp:23] ### Build at: Mar 20 2021 20:33:28 ###
+I0411 14:12:25.371997 204960 error_code.cpp:24] ### Build Environment: _BUILD_ENV_DESCRIPTION ###
+E0411 14:12:25.372061 204960 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:2000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+I0411 14:12:25.372818 204960 mountable_file_system.cpp:81] Mounted abs Uri /
+I0411 14:12:25.372838 204960 mountable_file_system.cpp:199] File System Default Helper /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2
+I0411 14:12:25.372844 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:25.372848 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:25.372860 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:25.372864 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:25.943295 204960 SFLA_func_unittest.cpp:192] start result output:f2_100_200_200_2000.json alg:SFLA loop:10 loopIdx:1 infer_fx:237.795 actual_min_fx:237.795 SD:200 miter:10 MCN:2000 lb:-10 up:10 step:10 M:10 I:10 P:100
+E0411 14:12:25.954758 204960 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:2000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+I0411 14:12:25.954871 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:25.954880 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:25.954892 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:25.954896 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:26.532048 204960 SFLA_func_unittest.cpp:192] start result output:f2_100_200_200_2000.json alg:SFLA loop:10 loopIdx:2 infer_fx:237.795 actual_min_fx:237.795 SD:200 miter:10 MCN:2000 lb:-10 up:10 step:10 M:10 I:10 P:100
+E0411 14:12:26.543670 204960 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:2000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+I0411 14:12:26.543804 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:26.543812 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:26.543821 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:26.543825 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:27.115466 204960 SFLA_func_unittest.cpp:192] start result output:f2_100_200_200_2000.json alg:SFLA loop:10 loopIdx:3 infer_fx:256.805 actual_min_fx:256.805 SD:200 miter:10 MCN:2000 lb:-10 up:10 step:10 M:10 I:10 P:100
+E0411 14:12:27.126361 204960 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:2000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+I0411 14:12:27.126485 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:27.126493 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:27.126502 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:27.126507 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:27.691630 204960 SFLA_func_unittest.cpp:192] start result output:f2_100_200_200_2000.json alg:SFLA loop:10 loopIdx:4 infer_fx:251.79 actual_min_fx:251.79 SD:200 miter:10 MCN:2000 lb:-10 up:10 step:10 M:10 I:10 P:100
+E0411 14:12:27.702108 204960 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:2000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+I0411 14:12:27.702203 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:27.702221 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:27.702231 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:27.702235 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:28.275063 204960 SFLA_func_unittest.cpp:192] start result output:f2_100_200_200_2000.json alg:SFLA loop:10 loopIdx:5 infer_fx:251.79 actual_min_fx:251.79 SD:200 miter:10 MCN:2000 lb:-10 up:10 step:10 M:10 I:10 P:100
+E0411 14:12:28.286262 204960 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:2000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+I0411 14:12:28.286340 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:28.286366 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:28.286375 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:28.286379 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:28.854560 204960 SFLA_func_unittest.cpp:192] start result output:f2_100_200_200_2000.json alg:SFLA loop:10 loopIdx:6 infer_fx:226.76 actual_min_fx:226.76 SD:200 miter:10 MCN:2000 lb:-10 up:10 step:10 M:10 I:10 P:100
+E0411 14:12:28.865193 204960 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:2000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+I0411 14:12:28.865289 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:28.865298 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:28.865306 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:28.865310 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:29.435879 204960 SFLA_func_unittest.cpp:192] start result output:f2_100_200_200_2000.json alg:SFLA loop:10 loopIdx:7 infer_fx:226.76 actual_min_fx:226.76 SD:200 miter:10 MCN:2000 lb:-10 up:10 step:10 M:10 I:10 P:100
+E0411 14:12:29.446272 204960 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:2000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+I0411 14:12:29.446352 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:29.446377 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:29.446385 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:29.446389 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:30.015885 204960 SFLA_func_unittest.cpp:192] start result output:f2_100_200_200_2000.json alg:SFLA loop:10 loopIdx:8 infer_fx:141.998 actual_min_fx:141.998 SD:200 miter:10 MCN:2000 lb:-10 up:10 step:10 M:10 I:10 P:100
+E0411 14:12:30.026207 204960 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:2000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+I0411 14:12:30.026284 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:30.026309 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:30.026319 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:30.026324 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:30.588603 204960 SFLA_func_unittest.cpp:192] start result output:f2_100_200_200_2000.json alg:SFLA loop:10 loopIdx:9 infer_fx:228.871 actual_min_fx:228.871 SD:200 miter:10 MCN:2000 lb:-10 up:10 step:10 M:10 I:10 P:100
+E0411 14:12:30.599097 204960 SFLA_func_unittest.cpp:108] initializeData FLAGS_P:100 M:10 MCN:2000 miter:10 I:10 SD:200 step:10 lb:-10 up:10 algorithm_type:6
+I0411 14:12:30.599191 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:30.599210 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:30.599218 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:30.599222 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:31.177650 204960 SFLA_func_unittest.cpp:183] start result output:f2_100_200_200_2000.json alg:SFLA loop:10 loopIdx:10 infer_fx:228.871 actual_min_fx:228.871 mean:228.923 stdev:30.8965 better:141.998 worst:256.805 SD:200 miter:10 MCN:2000 lb:-10 up:10 step:10 M:10 I:10 P:100
+I0411 14:12:31.190737 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:31.190750 204960 mountable_file_system.cpp:71] Prefix is /
+I0411 14:12:31.190759 204960 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f2_100_200_200_2000.json
+I0411 14:12:31.190762 204960 mountable_file_system.cpp:71] Prefix is /

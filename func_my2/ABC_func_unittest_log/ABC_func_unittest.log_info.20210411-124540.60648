@@ -1,0 +1,63 @@
+Log file created at: 2021/04/11 12:45:40
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0411 12:45:40.137653 60648 error_code.cpp:21] ### GIT HASH: _GITHASH ###
+I0411 12:45:40.137838 60648 error_code.cpp:22] ### GIT BRANCH: _GITBRANCH ###
+I0411 12:45:40.137861 60648 error_code.cpp:23] ### Build at: Mar 20 2021 20:33:28 ###
+I0411 12:45:40.137866 60648 error_code.cpp:24] ### Build Environment: _BUILD_ENV_DESCRIPTION ###
+I0411 12:45:40.138828 60648 mountable_file_system.cpp:81] Mounted abs Uri /
+I0411 12:45:40.138849 60648 mountable_file_system.cpp:199] File System Default Helper /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2
+I0411 12:45:40.138855 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:45:40.138859 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:45:40.138870 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:45:40.138875 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:45:59.115240 60648 ABC_func_unittest.cpp:201] start result infer_fx:0.00949258 actual_min_fx:0.00949258 funcName:f8 alg:mABC output:f8_100_200_200_20000.json loop:10 loopIdx:1 FoodNumber:100 SD:200 limit:200 MCN:20000 lb:-10 up:10
+I0411 12:45:59.152985 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:45:59.153007 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:45:59.153019 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:45:59.153023 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:46:17.930903 60648 ABC_func_unittest.cpp:201] start result infer_fx:0.00908759 actual_min_fx:0.00908759 funcName:f8 alg:mABC output:f8_100_200_200_20000.json loop:10 loopIdx:2 FoodNumber:100 SD:200 limit:200 MCN:20000 lb:-10 up:10
+I0411 12:46:17.961513 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:46:17.961531 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:46:17.961544 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:46:17.961549 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:46:36.743733 60648 ABC_func_unittest.cpp:201] start result infer_fx:0.0109755 actual_min_fx:0.0109755 funcName:f8 alg:mABC output:f8_100_200_200_20000.json loop:10 loopIdx:3 FoodNumber:100 SD:200 limit:200 MCN:20000 lb:-10 up:10
+I0411 12:46:36.773339 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:46:36.773358 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:46:36.773366 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:46:36.773386 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:46:55.668256 60648 ABC_func_unittest.cpp:201] start result infer_fx:0.00477413 actual_min_fx:0.00477413 funcName:f8 alg:mABC output:f8_100_200_200_20000.json loop:10 loopIdx:4 FoodNumber:100 SD:200 limit:200 MCN:20000 lb:-10 up:10
+I0411 12:46:55.698063 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:46:55.698091 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:46:55.698117 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:46:55.698120 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:47:14.506242 60648 ABC_func_unittest.cpp:201] start result infer_fx:0.00697836 actual_min_fx:0.00697836 funcName:f8 alg:mABC output:f8_100_200_200_20000.json loop:10 loopIdx:5 FoodNumber:100 SD:200 limit:200 MCN:20000 lb:-10 up:10
+I0411 12:47:14.535755 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:47:14.535778 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:47:14.535786 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:47:14.535789 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:47:33.426187 60648 ABC_func_unittest.cpp:201] start result infer_fx:0.00581158 actual_min_fx:0.00581158 funcName:f8 alg:mABC output:f8_100_200_200_20000.json loop:10 loopIdx:6 FoodNumber:100 SD:200 limit:200 MCN:20000 lb:-10 up:10
+I0411 12:47:33.456112 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:47:33.456132 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:47:33.456143 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:47:33.456147 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:47:52.303297 60648 ABC_func_unittest.cpp:201] start result infer_fx:0.0108633 actual_min_fx:0.0108633 funcName:f8 alg:mABC output:f8_100_200_200_20000.json loop:10 loopIdx:7 FoodNumber:100 SD:200 limit:200 MCN:20000 lb:-10 up:10
+I0411 12:47:52.332384 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:47:52.332403 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:47:52.332412 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:47:52.332415 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:48:11.184082 60648 ABC_func_unittest.cpp:201] start result infer_fx:0.00971167 actual_min_fx:0.00971167 funcName:f8 alg:mABC output:f8_100_200_200_20000.json loop:10 loopIdx:8 FoodNumber:100 SD:200 limit:200 MCN:20000 lb:-10 up:10
+I0411 12:48:11.214696 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:48:11.214715 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:48:11.214726 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:48:11.214730 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:48:30.000584 60648 ABC_func_unittest.cpp:201] start result infer_fx:0.00803401 actual_min_fx:0.00803401 funcName:f8 alg:mABC output:f8_100_200_200_20000.json loop:10 loopIdx:9 FoodNumber:100 SD:200 limit:200 MCN:20000 lb:-10 up:10
+I0411 12:48:30.030488 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:48:30.030511 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:48:30.030539 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:48:30.030541 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:48:48.638427 60648 ABC_func_unittest.cpp:193] start result infer_fx:0.00765936 actual_min_fx:0.00765936 mean:0.0083388 stdev:0.0019647 better:0.00477413 worst:0.0109755 funcName:f8 alg:mABC output:f8_100_200_200_20000.json loop:10 loopIdx:10 FoodNumber:100 SD:200 limit:200 MCN:20000 lb:-10 up:10
+I0411 12:48:48.689842 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:48:48.689877 60648 mountable_file_system.cpp:71] Prefix is /
+I0411 12:48:48.689885 60648 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/func_my2//f8_100_200_200_20000.json
+I0411 12:48:48.689904 60648 mountable_file_system.cpp:71] Prefix is /
