@@ -1,0 +1,13 @@
+Log file created at: 2021/04/11 11:22:45
+Running on machine: WXRG0274
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0411 11:22:45.189647 205847 SFLA_unittest.cpp:119] initializeData FLAGS_P:80 M:8 MCN:2000 miter:100 I:10 D:20 K:4 SD:80 step:19 lb:0 up:19 algorithm_type:6
+E0411 11:22:56.694967 205847 SFLA_unittest.cpp:119] initializeData FLAGS_P:80 M:8 MCN:2000 miter:100 I:10 D:20 K:4 SD:80 step:19 lb:0 up:19 algorithm_type:6
+E0411 11:23:07.612483 205847 SFLA_unittest.cpp:119] initializeData FLAGS_P:80 M:8 MCN:2000 miter:100 I:10 D:20 K:4 SD:80 step:19 lb:0 up:19 algorithm_type:6
+E0411 11:23:18.964018 205847 SFLA_unittest.cpp:119] initializeData FLAGS_P:80 M:8 MCN:2000 miter:100 I:10 D:20 K:4 SD:80 step:19 lb:0 up:19 algorithm_type:6
+E0411 11:23:30.911365 205847 SFLA_unittest.cpp:119] initializeData FLAGS_P:80 M:8 MCN:2000 miter:100 I:10 D:20 K:4 SD:80 step:19 lb:0 up:19 algorithm_type:6
+E0411 11:23:42.051496 205847 SFLA_unittest.cpp:119] initializeData FLAGS_P:80 M:8 MCN:2000 miter:100 I:10 D:20 K:4 SD:80 step:19 lb:0 up:19 algorithm_type:6
+E0411 11:23:54.073086 205847 SFLA_unittest.cpp:119] initializeData FLAGS_P:80 M:8 MCN:2000 miter:100 I:10 D:20 K:4 SD:80 step:19 lb:0 up:19 algorithm_type:6
+E0411 11:24:06.289952 205847 SFLA_unittest.cpp:119] initializeData FLAGS_P:80 M:8 MCN:2000 miter:100 I:10 D:20 K:4 SD:80 step:19 lb:0 up:19 algorithm_type:6
+E0411 11:24:17.148790 205847 SFLA_unittest.cpp:119] initializeData FLAGS_P:80 M:8 MCN:2000 miter:100 I:10 D:20 K:4 SD:80 step:19 lb:0 up:19 algorithm_type:6
+E0411 11:24:28.234344 205847 SFLA_unittest.cpp:119] initializeData FLAGS_P:80 M:8 MCN:2000 miter:100 I:10 D:20 K:4 SD:80 step:19 lb:0 up:19 algorithm_type:6
