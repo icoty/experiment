@@ -1,0 +1,153 @@
+Log file created at: 2021/04/18 23:06:23
+Running on machine: WXRG0273
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0418 23:06:23.546598 100765 error_code.cpp:21] ### GIT HASH: _GITHASH ###
+I0418 23:06:23.547624 100765 error_code.cpp:22] ### GIT BRANCH: _GITBRANCH ###
+I0418 23:06:23.547632 100765 error_code.cpp:23] ### Build at: Apr 18 2021 21:56:16 ###
+I0418 23:06:23.547636 100765 error_code.cpp:24] ### Build Environment: _BUILD_ENV_DESCRIPTION ###
+I0418 23:06:23.547812 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:0 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547829 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:1 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547835 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:2 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547839 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:3 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547843 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:4 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547848 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:5 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547852 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:6 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547856 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:7 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547861 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:8 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547866 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:9 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547870 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:10 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547874 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:11 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547878 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:12 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547883 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:13 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547888 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:14 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547891 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:15 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547895 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:16 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547900 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:17 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547904 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:18 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547909 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:19 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547912 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:20 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547919 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:21 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547924 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:22 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.547935 100765 mountable_file_system.cpp:81] Mounted abs Uri /
+I0418 23:06:23.547945 100765 mountable_file_system.cpp:199] File System Default Helper /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case
+I0418 23:06:23.547955 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.547958 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.548065 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.548071 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.556008 100765 ABC_case_unittest.cpp:234] start result infer_fx:1010 actual_min_fx:1010 funcName:test_case alg:mABC output:test_case_0_50_11_11_100.json loop:5 loopIdx:1 FoodNumber:50 SD:11 limit:11 MCN:100 lb:1 up:5
+I0418 23:06:23.557873 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:0 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557898 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:1 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557901 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:2 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557905 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:3 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557909 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:4 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557911 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:5 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557915 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:6 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557919 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:7 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557922 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:8 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557925 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:9 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557929 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:10 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557935 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:11 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557945 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:12 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557955 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:13 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557958 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:14 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557966 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:15 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557971 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:16 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557977 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:17 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557981 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:18 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557984 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:19 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557987 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:20 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557991 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:21 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.557996 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:22 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.558002 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.558007 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.558120 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.558125 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.566452 100765 ABC_case_unittest.cpp:234] start result infer_fx:1010 actual_min_fx:1010 funcName:test_case alg:mABC output:test_case_0_50_11_11_100.json loop:5 loopIdx:2 FoodNumber:50 SD:11 limit:11 MCN:100 lb:1 up:5
+I0418 23:06:23.568537 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:0 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568550 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:1 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568555 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:2 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568558 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:3 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568562 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:4 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568565 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:5 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568568 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:6 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568572 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:7 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568575 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:8 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568579 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:9 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568600 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:10 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568614 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:11 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568619 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:12 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568624 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:13 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568629 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:14 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568634 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:15 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568639 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:16 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568643 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:17 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568647 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:18 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568652 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:19 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568657 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:20 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568661 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:21 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568666 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:22 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.568673 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.568678 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.568794 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.568800 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.576107 100765 ABC_case_unittest.cpp:234] start result infer_fx:1010 actual_min_fx:1010 funcName:test_case alg:mABC output:test_case_0_50_11_11_100.json loop:5 loopIdx:3 FoodNumber:50 SD:11 limit:11 MCN:100 lb:1 up:5
+I0418 23:06:23.578274 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:0 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578287 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:1 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578291 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:2 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578295 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:3 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578299 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:4 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578306 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:5 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578310 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:6 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578313 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:7 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578316 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:8 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578320 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:9 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578325 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:10 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578336 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:11 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578344 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:12 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578366 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:13 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578372 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:14 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578375 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:15 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578387 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:16 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578390 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:17 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578395 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:18 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578399 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:19 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578404 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:20 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578408 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:21 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578413 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:22 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.578418 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.578423 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.578487 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.578492 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.586463 100765 ABC_case_unittest.cpp:234] start result infer_fx:1010 actual_min_fx:1010 funcName:test_case alg:mABC output:test_case_0_50_11_11_100.json loop:5 loopIdx:4 FoodNumber:50 SD:11 limit:11 MCN:100 lb:1 up:5
+I0418 23:06:23.588366 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:0 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588389 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:1 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588394 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:2 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588399 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:3 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588403 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:4 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588408 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:5 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588413 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:6 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588416 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:7 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588438 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:8 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588443 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:9 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588446 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:10 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588451 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:11 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588455 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:12 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588459 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:13 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588464 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:14 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588469 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:15 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588472 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:16 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588476 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:17 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588480 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:18 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588485 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:19 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588490 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:20 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588493 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:21 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588501 100765 ABC_case_unittest.cpp:141] LoadTestCaseTime size:1 k:0 i:22 token size:23 lines:549,667,461,622,559,354,361,730,18.56,13.52,18.20,5,8,2,3,6,5,10,21,15,10,19,20
+I0418 23:06:23.588508 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.588512 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.588611 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.588616 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.596127 100765 ABC_case_unittest.cpp:226] start result infer_fx:1010 actual_min_fx:1010 mean:1010 stdev:0 better:1010 worst:1010 funcName:test_case alg:mABC output:test_case_0_50_11_11_100.json loop:5 loopIdx:5 FoodNumber:50 SD:11 limit:11 MCN:100 lb:1 up:5
+I0418 23:06:23.597846 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.597856 100765 mountable_file_system.cpp:71] Prefix is /
+I0418 23:06:23.597976 100765 mountable_file_system.cpp:67] FileSystem of /mnt/WXRG0274_ssd/yyang4/ficus2/experient/test_case//test_case_0_50_11_11_100.json
+I0418 23:06:23.597982 100765 mountable_file_system.cpp:71] Prefix is /

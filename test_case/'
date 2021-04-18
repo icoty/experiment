@@ -1,0 +1,43 @@
+#!/bin/bash
+
+ulimit -c unlimited
+rm core*
+rm qws2.json
+touch qws2.json
+echo '{}' > qws2.json
+
+for food in 30 45 60 80
+do
+   for d in 80 50 40 30
+   do
+     for limit in 100 200 300 400 500
+     do
+       for mcn in 500 1000 2000 3000 4000 5000
+       do
+          for alg in 0 1 2 3 4 5
+          do
+		file='qws2_'$food'_'$d'_'$limit'_'$mcn'_'$alg'.json'
+		let up="$food-1"
+                ./ABC_unittest \
+                        -config_path=/mnt/WXRG0274_ssd/yyang4/ficus2/my/ \
+                        -test_data=qws2.txt \
+                        -FoodNumber=$food \
+                        -D=$d \
+                        -K=4 \
+                        -SD=$food \
+                        -limit=$limit \
+                        -MCN=$mcn \
+                        -algorithm_type=$alg \
+                        -lb=0 \
+                        -up=$up \
+                        -output=$file \
+                        --alsologtostderr \
+		rm $file
+		touch $file
+		echo '{}' > $file
+          done
+       done
+     done
+  done
+done
+
